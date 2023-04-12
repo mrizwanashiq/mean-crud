@@ -26,5 +26,5 @@ npm run start
 
 Navigate to `http://localhost:4200/`.
 
-Or to run it on specific port, Run `ng serve --port 8081`. Navigate to `http://localhost:8081/`.
+Or to run it on specific port, Run `ng serve --port 8081`, and navigate to `http://localhost:8081/`.
 
