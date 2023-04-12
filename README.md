@@ -14,13 +14,17 @@ We will build a full-stack Tutorial Application in that:
 
 ```
 cd node-js-server
-node server.js
+npm run start
 ```
 
 ### Angular Client
 
 ```
 cd angular-client
+npm run start
 ```
 
-Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`.
+Navigate to `http://localhost:4200/`.
+
+Or to run it on specific port, Run `ng serve --port 8081`. Navigate to `http://localhost:8081/`.
+
