@@ -11,7 +11,7 @@ I built a full-stack Book Application in that:
 ### Node.js Server
 
 ```
-cd node-js-server
+cd node-server
 npm run start
 ```
 
