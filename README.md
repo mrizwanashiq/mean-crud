@@ -1,12 +1,10 @@
-# MEAN stack with Angular CRUD example
+# Angular with Express
 
-In this tutorial, I will show you how to build a full-stack (MEAN stack) Angular + Node.js example with a CRUD Application. The back-end server uses Node.js + Express for REST APIs and connects with MongoDB database, front-end side is an Angular App with HTTPClient.
+I built a full-stack Book Application in that:
 
-We will build a full-stack Tutorial Application in that:
-
-- Tutorial has id, title, description, published status.
-- User can create, retrieve, update, delete Tutorials.
-- There is a search box for finding Tutorials by title.
+- Book has id, title, description, published status.
+- User can create, retrieve, update, delete Books.
+- There is a search box for finding Books by title.
 
 ## Project setup
 
@@ -27,4 +25,3 @@ npm run start
 Navigate to `http://localhost:4200/`.
 
 Or to run it on specific port, Run `ng serve --port 8081`, and navigate to `http://localhost:8081/`.
-
